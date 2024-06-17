@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-17T12:04:46 IST" name="Default suite" finished-at="2024-06-17T12:04:47 IST" duration-ms="730">
+    <groups>
+    </groups>
+    <test started-at="2024-06-17T12:04:46 IST" name="Default test" finished-at="2024-06-17T12:04:47 IST" duration-ms="730">
+      <class name="com.tests.excel.TC01_excelTest">
+        <test-method signature="excelDemoTest(java.util.Map)[pri:0, instance:com.tests.excel.TC01_excelTest@399f45b1]" started-at="2024-06-17T12:04:47 IST" name="excelDemoTest" data-provider="getData" finished-at="2024-06-17T12:04:47 IST" duration-ms="12" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{description=Demo Test, accountName=Varun, testCaseId=TC001}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- excelDemoTest -->
+      </class> <!-- com.tests.excel.TC01_excelTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
